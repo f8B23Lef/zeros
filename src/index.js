@@ -6,5 +6,5 @@ module.exports = function getZerosCount(number) {
     zeros += Math.trunc(number / i); 
   }
     
-   return zeros;
+  return zeros;
 }
